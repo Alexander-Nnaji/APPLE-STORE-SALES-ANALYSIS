@@ -52,7 +52,7 @@ Through our analysis, we identified the MacBook as the top-performing product in
 
   -Total Profit (Revenue - Expenses): $6,881,336
 
-💡 Insight:
+### insight:
 The MacBook stands out as a high-value product with excellent profitability. This indicates not only strong sales performance but also effective cost management. Prioritizing the MacBook in inventory, promotions, and distribution strategies would likely enhance overall financial performance.
 
 ### Which region has the highest total revenues and the highest average revenue?
@@ -67,7 +67,7 @@ The MacBook stands out as a high-value product with excellent profitability. Thi
 
    Average Revenue: $176,303.10
 
-💡 Insight:
+### Insight:
 The APAC region contributes the most in terms of total revenue, suggesting strong market demand or transaction volume. Meanwhile, EMEA has the highest average revenue, indicating higher-value sales. This suggests potential for premium product marketing or targeted customer retention in EMEA.
 
 
@@ -80,7 +80,7 @@ Among the different sales methods—such as salesperson, in-store, and third-par
 
   Highest Profit: In-Store Sales
 
-💡 Insight:
+### Insight:
 Third-party channels are excellent for boosting total revenue, likely due to their broader reach. However, in-store sales are more efficient in terms of profitability, indicating better control over costs or higher margins. Strategic focus should be on expanding in-store efficiency and renegotiating terms with third-party partners to increase profitability.
 
 
@@ -92,7 +92,7 @@ The analysis shows that a high quantity sold does not necessarily correlate with
 
   Top Revenue Product: MacBook – Despite lower quantity, generated the highest revenue
 
-💡 Insight:
+### Insight:
 This indicates a weak correlation between quantity sold and revenue. AirPods, while popular in units sold, do not contribute as significantly to revenue due to their lower price point. Conversely, the MacBook sells fewer units but yields higher returns due to its premium pricing. This highlights the importance of balancing volume and value in product strategy.
 
 
@@ -102,7 +102,7 @@ This indicates a weak correlation between quantity sold and revenue. AirPods, wh
 
   Lowest Expense-to-Revenue Ratio: EMEA
 
-💡 Insight:
+### Insight:
 The APAC region incurs higher costs relative to its revenue, suggesting inefficiencies or higher operational expenses. In contrast, EMEA operates more efficiently, achieving greater revenue for each dollar spent. Cost-reduction strategies and process optimizations in APAC could significantly boost profitability.
 
 ## Recommendations
